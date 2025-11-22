@@ -1,4 +1,5 @@
 **Hello There! (～￣▽￣)～**
+
 I'm Manuel, a passionate web developer based in Portugal
 
 At the moment I'm trying to manage my time between a part-time, college and personal life 😅
