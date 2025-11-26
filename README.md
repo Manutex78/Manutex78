@@ -8,7 +8,7 @@ If an idea pops into my head I write id down to create it when I have time
 
 **My usual languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
 
 **My Favourite Tools:**
 
