@@ -14,7 +14,7 @@ I've been in IT since 2021, starting with a vocational course in Management Info
 ### 🏆 Awards & Recognition
 
 - 🥉 **3rd Prize — TDW JAM: 24H Web Game Challenge** (1st edition, FMAD, Oct 2026) - with Linda Silva
-- 🥉 **3rd Place — Best WebPII Project** (ESMAD, 2025/26) - *Modo*, a sustainable habit tracker (Vue 3, Node.js/Express, MySQL)
+- 🥉 **3rd Place — Best WebPII Project** (ESMAD, 2025/26) - *Modo*, a sustainable habit tracker (Vue 3, Node.js/Express, MySQL) - with Linda Silva and Miguel Machado
 
 ### 🛠️ Tech Stack
 
