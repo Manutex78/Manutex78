@@ -65,7 +65,6 @@ Three.js · A-Frame / AR.js · ML5.js · Chart.js · Bootstrap · jQuery · Cust
 
 ### Current Focus
 
-- Building the Legacy back-end with my team
 - Learning TypeScript, React, Flutter and Dart
 - Turning my back-end projects into documented case studies (schemas, endpoints, auth flows) for my portfolio
 - Open to back-end internships and freelance work
