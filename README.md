@@ -43,24 +43,6 @@ I've been in IT since 2021, starting with a vocational course in Management Info
 
 Three.js · A-Frame / AR.js · ML5.js · Chart.js · Bootstrap · jQuery · CustomTkinter · Tesseract OCR
 
-### Featured Projects
-
-**[MODO — Habit Tracker](https://github.com/Manutex78/PII-Modo)**
-
-Gamified habit tracker with environmental impact tracking. I worked on the back-end: a RESTful API in Node.js/Express with Sequelize over a normalized MySQL schema (users, habits, tasks, impacts, avatar decorations, notifications, reports). Auth uses JWT in HTTP-only cookies, bcrypt hashing and role-based middleware (`authenticateUser` / `authorizeAdmin`). Includes migrations, a Faker/Python seeder, Postman-tested endpoints and Vitest tests. Built as a team of three.
-
-**Legacy — Sustainability Social Platform** *(in progress, 2026/27)*
-
-Group semester project that turns the UN Sustainable Development Goals into a personal bucket list, with photo-verified completions, per-goal badges, communities and a social feed. Express back-end, RBAC and a privacy-by-design data model (completion and publication kept as separate entities for GDPR).
-
-**Painel Informativo — Self-Hosted Info Panel** *(final vocational project, grade 18/20)*
-
-Dynamic display with a full back-office, written in PHP 8.3 and MySQL and self-hosted on a Raspberry Pi with Apache2. Login with hashed passwords, a 4-level permission system with an approval flow for new accounts, and validated image/video uploads.
-
-**Lisbon Airbnb — MongoDB Analytics**
-
-Group database project: idempotent `mongosh` import scripts that clean data on the way in, an indexing plan and 21 business queries on pricing, occupancy and hosts, including aggregation pipelines that answer the same question two different ways.
-
 ### Education
 
 **B.Sc. in Web Technologies and Development (TDW)** | FMAD (formerly ESMAD) / Universidade Técnica do Porto
