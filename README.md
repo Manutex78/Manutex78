@@ -2,11 +2,19 @@
 
 **Web Technologies & Development Student | Back-End Developer**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manutex)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:manutex782006@gmail.com)
+
 ### About Me
 
 I'm a Web Technologies and Development (TDW) student at FMAD (formerly ESMAD), Universidade Técnica do Porto, focused on **back-end systems, REST APIs and relational databases**. I prefer working on the part of an application nobody sees: data models, server logic, authentication and the APIs that hold everything together.
 
 I've been in IT since 2021, starting with a vocational course in Management Informatics, where I self-hosted my final project on a Raspberry Pi. Since then I've built Express/Sequelize APIs, designed MySQL schemas in 3NF and written MongoDB aggregation pipelines.
+
+### 🏆 Awards & Recognition
+
+- 🥉 **3rd Prize — TDW JAM: 24H Web Game Challenge** (1st edition, FMAD, Oct 2026) - with Linda Silva
+- 🥉 **3rd Place — Best WebPII Project** (ESMAD, 2025/26) - *Modo*, a sustainable habit tracker (Vue 3, Node.js/Express, MySQL)
 
 ### 🛠️ Tech Stack
 
@@ -64,4 +72,4 @@ Three.js · A-Frame / AR.js · ML5.js · Chart.js · Bootstrap · jQuery · Cust
 
 ### Let's Connect
 
-📧 Email: manutex782006@gmail.com · 💼 LinkedIn: [manutex](https://www.linkedin.com/in/manutex) · 📸 Instagram: [\_7manu8\_](https://instagram.com/_7manu8_)
+📧 Email: [manutex782006@gmail.com](mailto:manutex782006@gmail.com) · 💼 LinkedIn: [manutex](https://www.linkedin.com/in/manutex) · 📸 Instagram: [\_7manu8\_](https://instagram.com/_7manu8_)
