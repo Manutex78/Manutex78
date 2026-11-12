@@ -64,4 +64,4 @@ Three.js · A-Frame / AR.js · ML5.js · Chart.js · Bootstrap · jQuery · Cust
 
 ### Let's Connect
 
-📧 Email: manutex782006@gmail.com · 💼 LinkedIn: [manutex](https://www.linkedin.com/in/manutex) · 📸 Instagram: [_7manu8_](https://instagram.com/_7manu8_)
+📧 Email: manutex782006@gmail.com · 💼 LinkedIn: [manutex](https://www.linkedin.com/in/manutex) · 📸 Instagram: [\_7manu8\_](https://instagram.com/_7manu8_)
